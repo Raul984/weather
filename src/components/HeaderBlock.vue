@@ -95,7 +95,8 @@ const languageToggle = async () => {
 }
 </style>
 
-<!-- <script>
+<!--OPTIONS API
+ <script>
 import { mapActions, mapMutations, mapGetters } from 'vuex'
 
 export default {

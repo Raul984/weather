@@ -136,7 +136,7 @@ const weatherIconUrl = (iconCode) => {
 }
 </style>
 
-<!-- 
+<!-- OPTIONS API
 <script>
 import WeatherChart from "./WeatherChart.vue"
 

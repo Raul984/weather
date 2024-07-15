@@ -130,7 +130,7 @@ watch(
 }
 </style>
 
-<!-- 
+<!-- OPTIONS API
 <script>
 import { Chart, registerables } from "chart.js";
 Chart.register(...registerables);

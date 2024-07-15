@@ -141,7 +141,7 @@ const addCityCard = async () => {
 }
 </style>
 
-<!-- 
+<!-- OPTIONS API
 <script>
 import { mapActions, mapMutations, mapState } from "vuex";
 

@@ -96,7 +96,7 @@ if (favoriteCities.value.length > 0) {
 }
 </style>
 
-<!-- 
+<!-- OPTIONS API
 <script>
 import { mapGetters, mapMutations, mapActions } from 'vuex';
 import ModalConfirm from '../components/ModalConfirm.vue';

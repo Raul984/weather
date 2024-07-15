@@ -67,7 +67,7 @@ const understand = () => emit("understand");
 }
 </style>
 
-<!-- 
+<!-- OPTIONS API
 <script>
 export default {
   name: 'ModalConfirm',

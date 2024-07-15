@@ -72,7 +72,7 @@ const currentDescription = computed(() =>
 }
 </style>
 
-<!-- 
+<!-- OPTIONS API
   <script>
   export default {
     name: 'WeatherCard',

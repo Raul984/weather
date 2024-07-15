@@ -93,7 +93,7 @@ onMounted(() => {
 }
 </style>
 
-<!-- 
+<!-- OPTIONS API
   <script>
   import WeatherBlock from '../components/WeatherBlock.vue';
   import SearchCity from '../components/SearchCity.vue';

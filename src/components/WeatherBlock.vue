@@ -160,7 +160,7 @@ onMounted(() => {
 }
 </style>
 
-<!-- 
+<!-- OPTIONS API
 <script>
 import WeatherCard from './WeatherCard.vue';
 import ModalConfirm from './ModalConfirm.vue';
