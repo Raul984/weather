@@ -1,0 +1,42 @@
+{
+  "logo": "AppWeather",
+  "error": "Error",
+  "hourlyTitle": "Hourly weather",
+  "weekTitle": "Week weather",
+  "feelsLike": "Feels like",
+  "noFavorites": "No favorites yet",
+  "noCities": "No cities yet",
+  "nav": {
+    "home": "Home",
+    "favorite": "Favorite"
+  },
+  "search": {
+    "placeholder": "Search your city...",
+    "nonCityError": "I don't know such a place, try to enter a valid place",
+    "searchError": "Something went wrong. Try again"
+  },
+  "day": "Day",
+  "week": "Week",
+  "graphWeek": "Daily Temperature",
+  "graphDay": "Hourly Temperature",
+  "temperature": "Temperature",
+  "time": "Time",
+
+  "overflow": {
+    "favorite": "Your favorite list if overload, max number of favorite city is 5",
+    "home": "The list of cities is full (it can only hold 5), or this city is already in your list"
+  },
+  "deleteConfirm": "Are you sure you want to delete this city?",
+  "yes": "Yes",
+  "no": "No",
+  "understand": "Understand",
+  "add": "Add to Favorites",
+  "remove": "Remove",
+
+  "titleModal": {
+    "remove": "Remove Block",
+    "attention": "Attention",
+    "removeFavorite": "Remove Favorite"
+  },
+  "changeLanguage": "UA"
+}
