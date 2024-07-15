@@ -15,5 +15,8 @@ The application is written on composition API but in the comments the same code 
 7. You can change the language of the application by pressing the button at the top of the screen
 8. The maximum number of cities on the page is 5
 
+## Link to my website
+[website link](https://weather-rust-three-32.vercel.app/)
+
 ### 📸 Screenshots
 <img src='/public/screen.png' width='600'/>
