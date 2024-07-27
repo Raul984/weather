@@ -1,6 +1,5 @@
-# Vue 3 + Vite
-
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+# Weather App
+App to search weather by city
 
 ## Remark
 The application is written on composition API but in the comments the same code is rewritten using options API, choose which approach you like better.
